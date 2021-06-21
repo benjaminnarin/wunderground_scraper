@@ -14,6 +14,14 @@ Supported Data
 *   Precipitation Accumulation
 *   Precipitation_Total   
 
+## Install
+
+Install Beautiful Soup to use.
+
+```shell
+sudo apt-get install python3-bs4
+```
+
 ## Example
 
 ``` python
