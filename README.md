@@ -44,3 +44,12 @@ print("Precipitation Total: "+ ws_scraper.get_precipitation_total())
 # Update scraped values.
 ws_scraper.update_weather()
 ```
+
+## Flask Webserver
+
+Simple Flask App that provides an RESTful weather api.
+
+```shell
+export FLASK_APP=wu_flask
+flask run
+```
